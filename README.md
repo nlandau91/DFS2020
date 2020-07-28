@@ -1,2 +1,2 @@
 # DFS2020
-Proyecto realizado para la materia Sistemas Distribuidos.
+Proyecto realizado por los estudiantes de la materia Sistemas Distribuidos año 2020
